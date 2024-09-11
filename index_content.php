@@ -192,7 +192,6 @@
        <li class="hover-dark-red grow">  CELCHEM LLC </li>
        <li class="hover-dark-red grow">  CONTINENTAL CARBON COMPANY </li>
        <li class="hover-dark-red grow">HOFFMANN MINERAL GmbH (Private Limited Company) </li>
-       <li class="hover-dark-red grow">  KENRICH PETROCHEMICALS, INC </li>
               <li class="hover-dark-red grow">  LANXESS </li>
      </ul>
    </div>
@@ -206,6 +205,7 @@
      <li class="hover-dark-red grow">  KETTLITZ-CHEMIE & Co. KG </li>
      <li class="hover-dark-red grow">  MOMENTIVE PERFORMANCE MATERIALS </li>
      <li class="hover-dark-red grow">  SONNEBORN, INC </li>
+      <li class="hover-dark-red grow">  KENRICH PETROCHEMICALS, INC </li>
      <li class="hover-dark-red grow">  THE INTERNATIONAL GROUP, INC. </li>
      </ul>
  </div>
