@@ -192,7 +192,7 @@
        <li class="hover-dark-red grow">  CELCHEM LLC </li>
        <li class="hover-dark-red grow">  CONTINENTAL CARBON COMPANY </li>
        <li class="hover-dark-red grow">HOFFMANN MINERAL GmbH (Private Limited Company) </li>
-              <li class="hover-dark-red grow">  LANXESS </li>
+          
      </ul>
    </div>
    <div class="col-md-4 col-sm-6 col-xs-12">
@@ -207,6 +207,7 @@
      <li class="hover-dark-red grow">  SONNEBORN, INC </li>
       <li class="hover-dark-red grow">  KENRICH PETROCHEMICALS, INC </li>
      <li class="hover-dark-red grow">  THE INTERNATIONAL GROUP, INC. </li>
+       <li class="hover-dark-red grow">  LANXESS </li>
      </ul>
  </div>
 </div>
