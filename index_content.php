@@ -194,8 +194,6 @@
        <li class="hover-dark-red grow">HOFFMANN MINERAL GmbH (Private Limited Company) </li>
        <li class="hover-dark-red grow">  KENRICH PETROCHEMICALS, INC </li>
               <li class="hover-dark-red grow">  LANXESS </li>
-       
-       
      </ul>
    </div>
    <div class="col-md-4 col-sm-6 col-xs-12">
