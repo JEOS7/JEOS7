@@ -189,14 +189,11 @@
       <ul class="lead">
        <li class="hover-dark-red grow">NOURYON (AKZO NOBEL SURFACE CHEMISTRY, LLC)</li>
        <li class="hover-dark-red grow">  BIOCOGENT </li>
-       <li class="hover-dark-red grow">  CANCARB LIMITED </li>
        <li class="hover-dark-red grow">  CELCHEM LLC </li>
        <li class="hover-dark-red grow">  CONTINENTAL CARBON COMPANY </li>
        <li class="hover-dark-red grow">HOFFMANN MINERAL GmbH (Private Limited Company) </li>
        <li class="hover-dark-red grow">  KENRICH PETROCHEMICALS, INC </li>
               <li class="hover-dark-red grow">  LANXESS </li>
-              <li class="hover-dark-red grow">  ITALMATCH </li>
-
        
        
      </ul>
@@ -210,9 +207,7 @@
     <ul class="lead">
      <li class="hover-dark-red grow">  KETTLITZ-CHEMIE & Co. KG </li>
      <li class="hover-dark-red grow">  MOMENTIVE PERFORMANCE MATERIALS </li>
-     <li class="hover-dark-red grow"> SHARON LABORATORIES </li>
      <li class="hover-dark-red grow">  SONNEBORN, INC </li>
-     <li class="hover-dark-red grow">  THE HALLSTAR COMPANY </li>
      <li class="hover-dark-red grow">  THE INTERNATIONAL GROUP, INC. </li>
      </ul>
  </div>
