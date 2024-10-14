@@ -11,13 +11,11 @@
    <div class="row featurette">
     <div class="col-md-7">
       <h2 class="featurette-heading">Corporative <span class="text-muted">presentation</span></h2>
-      <p class="lead">LEMA has its general offices, distribution center and laboratory in the Northern Zone of the Metropolitan Area of Mexico City, from where it serves the entire industry based in the Central Zone of the country, Mexico City, State of Mexico, Puebla, Tlaxcala, Morelos, Hidalgo, Queretaro and Guanajuato, where more than 80% of the country's industrial activity is concentrated.</p>
-
-      <p class="lead">To ensure coverage of areas outside the central zone of the country, there are offices in Guadalajara and a warehouse in Monterrey.
+      <p class="lead">LEMA has its general offices and distribution warehouse in the Northern Zone of the Metropolitan Area of Mexico City, from where it serves the entire industry located in the Central Zone of the country, Mexico City, State of Mexico, Puebla, Tlaxcala, Morelos, Hidalgo, Queretaro and Guanajuato, where the most of the country's industrial activity is concentrated.</p>
 
 </p>
 
-      <p class="lead">The great success of LEMA, whose sales have never stopped growing during its trajectory of since November 1990, is supported by its staff made up of more than 40 Mexicans committed to provide the best service and meet the expectations of our customers. , as well as in the search to become the most important chemical specialty distribution company in Mexico.
+      <p class="lead">The great success of LEMA is supported by its staff made up of Mexicans committed to provide the best service and meet the expectations of our customers, as well as in the search to become the most important chemical specialty distribution Company in Mexico.
 
 
 </p>
@@ -63,8 +61,8 @@
     <div class="row featurette">
       <div class="col-md-7 col-md-push-5">
         <h2 class="featurette-heading">Commitment to <span class="text-muted">quality</span></h2>
-        <p class="lead">We take pride in our commitment to quality, the services we provide and the strengthening of our relationships with our clients and proof of this is the implementation of a Quality Management System based on the international standard ISO 9001: 2015, which It will lead us to continuously improve our processes with customer focus.</p>
-        <p class="lead">Our company achieved ISO 9001: 2015 certification under the international standard in December 2017.</p>
+        <p class="lead">We take pride in our commitment to quality, the services we provide and the strengthening of our relationships with our clients, proof of this is the implementation of a Quality Management System based on the ISO 9001: 2015 international standard, which help us to continuously improve our processes with customer focus.</p>
+        <p class="lead">Our company achieved certification under the ISO 9001: 2015 international standard in December 2017.</p>
       </div>
       <div class="col-md-5 col-md-pull-7">
         <img class="featurette-image img-responsive center-block" src="<?php echo $siteroot; ?>img/medal-warranty.png" alt="Generic placeholder image">
@@ -73,8 +71,8 @@
     <hr class="featurette-divider">
     <div class="row featurette">
       <div class="col-md-7">
-        <h2 class="featurette-heading"><i class="fa fa-file-o fa-1x"></i>  Our  <span class="text-muted">politic</span></h2>
-         <p class="lead">We are committed to market, store and distribute chemical specialties that meet the needs and expectations of our clients and represented, promoting:</p>
+        <h2 class="featurette-heading"><i class="fa fa-file-o fa-1x"></i>  Our  <span class="text-muted">Quality policy</span></h2>
+         <p class="lead">We are committed to market, store and distribute chemical specialties that meet the needs and requirements applicable to all interested parties, promoting:</p>
 <ul>
   <li>
 The permanent compliance with quality and safety standards.
