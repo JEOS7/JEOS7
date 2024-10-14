@@ -11,11 +11,11 @@
    <div class="row featurette">
     <div class="col-md-7">
       <h2 class="featurette-heading">Presentación <span class="text-muted">Corporativa</span></h2>
-      <p class="lead">LEMA cuenta con sus oficinas generales, centro de distribución y laboratorio en la Zona Norte del Área Metropolitana de la Ciudad de México, desde donde da servicio a toda la industria asentada en la Zona Centro del país, México D.F., Estado de México, Puebla, Tlaxcala, Morelos, Hidalgo, Querétaro y Guanajuato donde se concentra más del 80% de la actividad industrial del país y puede asegurar una cobertura de las zonas fuera del centro del país.</p>
+      <p class="lead">LEMA cuenta con sus oficinas generales y almacenes de distribución en la Zona Norte del Área Metropolitana de la Ciudad de México, desde donde da servicio a toda la industria asentada en la Zona Centro del país, Cuidad de México, Estado de México, Puebla, Tlaxcala, Morelos, Hidalgo, Querétaro y Guanajuato donde se concentra la mayor actividad industrial del país y puede asegurar una cobertura de las zonas fuera del centro del país.</p>
 
       <p class="lead"> </p>
 
-      <p class="lead">El gran éxito de LEMA, cuyas ventas nunca han dejado de crecer durante su trayectoria desde su fundación en Noviembre de 1990, se soporta en su personal conformado por más de 40 mexicanos comprometidos con brindar el mejor servicio y satisfacer las expectativas de nuestros clientes, así como en la busqueda de convertirse en la empresa de distribución de especialidades químicas más importante de México.</p>
+      <p class="lead">El éxito de LEMA se soporta en su personal comprometido con brindar el mejor servicio y satisfacer las expectativas de nuestros clientes, así como en la busqueda de convertirse en la empresa de distribución de especialidades químicas más importante de México.</p>
     </div>
     <div class="col-md-5">
       <img class="featurette-image img-responsive center-block" src="<?php echo $siteroot; ?>img/mapa-lema.png" alt="Generic placeholder image">
@@ -56,8 +56,8 @@
     <div class="row featurette">
       <div class="col-md-7 col-md-push-5">
         <h2 class="featurette-heading">Compromiso con la <span class="text-muted">calidad</span></h2>
-        <p class="lead">Nos enorgullecemos de nuestro compromiso con la calidad, de los servicios que prestamos y el fortalecimiento de las relaciones con nuestros clientes y prueba de ello es la implementación de un Sistema de Gestión de la Calidad con base a la norma internacional ISO 9001:2015, que nos llevará a mejorar continuamente nuestros procesos con enfoque al cliente.</p>
-        <p class="lead">Nuestra empresa logró la certificación ISO 9001:2015 bajo la norma internacional en Diciembre 2017.</p>
+        <p class="lead">Nos enorgullecemos de nuestro compromiso con la calidad, de los servicios que prestamos y el fortalecimiento de las relaciones con nuestros clientes y prueba de ello es la implementación de un Sistema de Gestión de la Calidad con base a la norma internacional ISO 9001:2015, que nos ayuda a mejorar continuamente nuestros procesos con enfoque al cliente.</p>
+        <p class="lead">Nuestra empresa logró la certificación bajo la norma internacional ISO 9001:2015 en Diciembre 2017.</p>
       </div>
       <div class="col-md-5 col-md-pull-7">
         <img class="featurette-image img-responsive center-block" src="<?php echo $siteroot; ?>img/medal-warranty.png" alt="Generic placeholder image">
@@ -66,8 +66,8 @@
     <hr class="featurette-divider">
     <div class="row featurette">
       <div class="col-md-7">
-        <h2 class="featurette-heading"><i class="fa fa-file-o fa-1x"></i> Nuestra <span class="text-muted">Política</span></h2>
-        <p class="lead">Estamos comprometidos a comercializar, almacenar y distribuir especialidades químicas que cumplan con las necesidades y expectativas de nuestros clientes y representadas, promoviendo:</p>
+        <h2 class="featurette-heading"><i class="fa fa-file-o fa-1x"></i> Nuestra <span class="text-muted">Política de Calidad</span></h2>
+        <p class="lead">Estamos comprometidos a comercializar, almacenar y distribuir especialidades químicas que cumplan con los requisitos aplicables a todas las partes interesadas, promoviendo:</p>
 
         <ul>
           <li>El cumplimiento permanente de las normas de calidad y seguridad </li>
