@@ -9,7 +9,6 @@ echo 'This is a simple php popup window.';
 
  <?php
 echo '<script type="text/javascript">
-       window.onload = function () { alert("ON MARCH 1 2024 THE WORK HOURS COMPANY FINISH AT  12:00 PM"); } 
 </script>'; 
 ?> 
 
